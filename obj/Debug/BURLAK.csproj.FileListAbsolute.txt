@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\BURLAK\bin\Debug\BURLAK.exe.config
+C:\Users\Пользователь\source\repos\BURLAK\bin\Debug\BURLAK.exe
+C:\Users\Пользователь\source\repos\BURLAK\bin\Debug\BURLAK.pdb
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.Form1.resources
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.exe
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.pdb
+C:\Users\Пользователь\source\repos\BURLAK\bin\Debug\Imager.dll
+C:\Users\Пользователь\source\repos\BURLAK\obj\Debug\BURLAK.csproj.CopyComplete
